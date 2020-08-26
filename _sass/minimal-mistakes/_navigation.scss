@@ -445,6 +445,10 @@
     font-weight: bold;
   }
 
+  .nav__granditems {
+    margin-left: 1rem;
+  }
+
   @include breakpoint(max-width $large - 1px) {
     position: relative;
     max-height: 0;

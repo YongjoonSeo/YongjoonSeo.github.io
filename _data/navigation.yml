@@ -6,13 +6,15 @@ main:
     url: /categories/
   - title: "태그"
     url: /tags/
-  # - title: "Quick-Start Guide"
-  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+
+# Sidebar
+sidebar:
+  - title: "알고리즘"
+    children:
+      - title: "알고리즘 개념"
+        url: /categories/algorithm-concepts/
+      - title: "알고리즘 문제풀이"
+        url: /categories/problem-solving/
+        grandchildren:
+          - title: "- Python"
+            url: /categories/problem-solving/python/
