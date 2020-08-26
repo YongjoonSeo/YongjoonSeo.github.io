@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "1. 완전 검색, 그리디 알고리즘"
+title: "1 : 완전 검색, 그리디 알고리즘"
 excerpt: "완전 검색, 그리디 알고리즘의 개념"
 categories: 
 - Algorithm Concepts

@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : "개발 공부 정리용 블로그" # site tagline that appears below site title in masthead
 name                     : "서용준"
 description              : "프로그래밍, 개발 관련 내용 정리합니다."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yongjoonseo.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
