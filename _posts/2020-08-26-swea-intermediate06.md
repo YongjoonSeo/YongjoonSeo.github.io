@@ -14,7 +14,7 @@ tags:
 
 - i,j 성분이 j,i성분으로 바뀐 행렬이다. 2차원 리스트로 구현하면 다음과 같다.
 
-a. 새로운 2차원 List에 할당하여 만드는 방법
+#### a. 새로운 2차원 List에 할당하여 만드는 방법
 
 ```python
 # python 예시 - 전치행렬(1): 새로운 2차원 List에 할당
@@ -46,9 +46,9 @@ for _ in range(5):
  5 10 15 20 25 # transA
 ```
 
+<br>
 
-
-b. 기존 List에서 자리 재배치 하는 방법
+#### b. 기존 List에서 자리 재배치 하는 방법
 
 ```python
 # python 예시 - 전치행렬(2): 기존 List에서 자리 재배치
@@ -78,11 +78,9 @@ for i in range(5):
  5 10 15 20 25 # 변경 후 A
 ```
 
+<br>
 
-
-
-
-c. 내장함수 zip을 사용하는 방법
+#### c. 내장함수 zip을 사용하는 방법
 
 ```python
 # python 예시 - 전치행렬(3): zip 함수 사용
@@ -136,9 +134,13 @@ print(transA)
 >>> <class 'tuple'>
 ```
 
+<br>
 
+<br>
 
-  
+<br>
+
+<br>
 
 출처: SW Expert Academy - Learn - Course - Programming Intermediate
 

@@ -24,9 +24,9 @@ tags:
   - n&1                                => 홀,짝 판별 (n이 홀수라면 1을 반환)
   - i & (1<<j)                        => i~j번째 비트가 1인지 아닌지를 판별
 
+<br>
 
-
-
+<br>
 
 ### 2. 비트 연산을 활용하여 부분 집합 구하기
 
@@ -80,7 +80,7 @@ for i in range(1 << idx):
 [1, 2, 3, 4, 5]
 ```
 
-
+<br>
 
 #### b. 부분집합의 합이 10이 되는 부분 집합
 
@@ -104,9 +104,13 @@ for i in range(1 << idx):
 1 4 5
 ```
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
 출처: SW Expert Academy - Learn - Course - Programming Intermediate
 

@@ -20,7 +20,7 @@ tags:
 - 삽입 정렬 (Insertion Sort)
 - 병합 정렬 (Merge Sort)
 
-
+<br>
 
 * 시간 복잡도 높은 순서
 
@@ -28,7 +28,9 @@ tags:
 
   ![big O 시간 복잡도](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Comparison_computational_complexity.svg/768px-Comparison_computational_complexity.svg.png)
 
+<br>
 
+<br>
 
 ### <strong>버블 정렬</strong>
 
@@ -56,9 +58,9 @@ print(a)
 >>> [0, 1, 1, 1, 2, 3, 4, 4]
 ```
 
+<br>
 
-
-
+<br>
 
 ### <strong>카운팅 정렬</strong>
 
@@ -106,9 +108,13 @@ print(CountingSort(A, 12))	# A 리스트 내에서 12 이내의 값을 정렬
 >>> [1, 2, 9, 12, 132, 13]
 ```
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
 출처: SW Expert Academy - Learn - Course - Programming Intermediate
 

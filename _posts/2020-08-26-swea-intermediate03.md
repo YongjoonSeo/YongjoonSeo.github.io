@@ -16,9 +16,9 @@ tags:
 - 최소값, 최대값 혹은 중간값을 찾을 수 있는 알고리즘
 - 시간복잡도 - O(kn)
 
+<br>
 
-
-1. k번째로 작은 원소를 찾는 셀렉션 알고리즘
+#### 1. k번째로 작은 원소 찾기
 
 ```python
 # python 예시 - 셀렉션 알고리즘(1): k번째로 작은 원소 찾기
@@ -47,9 +47,9 @@ print(SelectionMin(lst, 3))
 >>> 7
 ```
 
+<br>
 
-
-2. k번째로 큰 원소를 찾는 셀렉션 알고리즘
+#### 2. k번째로 큰 원소 찾기
 
 ```python
 # python 예시 - 셀렉션 알고리즘(2): k번째로 큰 원소 찾기
@@ -73,9 +73,9 @@ print(SelectionMax(lst, 3))
 >>> 11
 ```
 
+<br>
 
-
-
+<br>
 
 ### <strong>선택 정렬</strong>
 
@@ -84,9 +84,9 @@ print(SelectionMax(lst, 3))
   * 자료 내의 최소값을 찾은 후 그 값을 리스트의 맨 앞의 값과 바꿔준다. 이후 남은 리스트에 대해서 같은 작업을 반복한다.
 * 시간복잡도 - O(n<sup>2</sup>)
 
+<br>
 
-
-1. 반복문을 이용한 선택 정렬
+#### 1. 반복문을 이용한 선택 정렬
 
 ```python
 # python 예시 - 선택 정렬(1): 반복문
@@ -109,9 +109,9 @@ print(SelectionSort(lst))
 >>> [2, 4, 7, 9, 11, 19, 23]
 ```
 
+<br>
 
-
-2. 재귀를 이용한 선택 정렬
+#### 2. 재귀를 이용한 선택 정렬
 
 ```python
 # python 예시 - 선택 정렬(2): 재귀
@@ -134,9 +134,13 @@ print(a)
 >>> [2, 7, 9, 11, 4, 19, 23]
 ```
 
+<br>
 
+<br>
 
+<br>
 
+<br>
 
 출처: SW Expert Academy - Learn - Course - Programming Intermediate
 

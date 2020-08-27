@@ -53,11 +53,9 @@ print(Quick(target))
 >>> [2, 8, 10, 16, 22, 30, 31, 69]
 ```
 
+<br>
 
-
-
-
-
+<br>
 
 ### <strong>삽입 정렬</strong>
 
@@ -85,11 +83,9 @@ print(lst)
 >>> [2, 8, 10, 16, 22, 30, 31, 69]
 ```
 
+<br>
 
-
-
-
-
+<br>
 
 ### <strong>병합 정렬</strong>
 
@@ -136,13 +132,13 @@ print(MergeSort(lst))
 >>> [2, 8, 10, 16, 22, 30, 31, 69]
 ```
 
+<br>
 
+<br>
 
+<br>
 
-
-
-
-
+<br>
 
 출처: SW Expert Academy - Learn - Course - Programming Intermediate
 
