@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "서용준"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/profile-image.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "성장 중인 개발자입니다."
   location         : "대한민국, 서울"
   # email            :
@@ -114,6 +114,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/YongjoonSeo"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yongjoon-seo-14907a1b6/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
