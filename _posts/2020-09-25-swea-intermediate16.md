@@ -10,7 +10,7 @@ tags:
 - Stack
 - Recursion
 ---
-## DFS (1) (깊이 우선 탐색, Depth-First Search)
+## DFS (깊이 우선 탐색, Depth-First Search)
 
 ### 1. <strong>DFS란?</strong>
 
