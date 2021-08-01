@@ -452,6 +452,21 @@
   .nav__granditems {
     margin-left: 1rem;
   }
+  
+  .num__badges {
+    margin-left: 0.8rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    border: solid;
+    border-width: 1px;
+    border-radius: 0.5rem;
+  }
+
+  .num__badges_grand {
+    background-color: black;
+    color: white;
+    border-color: black;
+  }
 
   @include breakpoint(max-width $large - 1px) {
     position: relative;

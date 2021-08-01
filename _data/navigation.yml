@@ -13,8 +13,11 @@ sidebar:
     children:
       - title: "알고리즘 개념"
         url: /categories/algorithm-concepts/
+        category: "Algorithm Concepts"
       - title: "알고리즘 문제풀이"
         url: /categories/problem-solving/
+        category: "Problem Solving"
         grandchildren:
           - title: "- Python"
             url: /categories/problem-solving/python/
+            category: "Python"

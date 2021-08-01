@@ -1,7 +1,7 @@
 ---
 title: "알고리즘 문제풀이"
 permalink: /categories/problem-solving/python/
-layout: tag
+layout: category
 author_profile: true
 taxonomy: Python
 ---
