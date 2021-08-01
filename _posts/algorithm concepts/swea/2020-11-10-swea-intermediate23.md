@@ -3,6 +3,7 @@ layout: single
 title: "13 : BFS (너비 우선 탐색, Breadth-First Search)"
 excerpt: "너비 우선 탐색 (BFS) 소개 및 구현"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

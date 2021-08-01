@@ -3,6 +3,7 @@ layout: single
 title: "6-1 : 문자열 패턴매칭 (1) - 브루트 포스"
 excerpt: "글자 하나하나를 일일이 비교하는 방식의 문자열 검색"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

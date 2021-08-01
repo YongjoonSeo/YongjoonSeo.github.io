@@ -3,6 +3,7 @@ layout: single
 title: "10 : 백트래킹 (Backtracking)"
 excerpt: "백트래킹 소개 및 응용"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

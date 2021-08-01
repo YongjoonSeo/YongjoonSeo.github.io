@@ -3,6 +3,7 @@ layout: single
 title: "15-3 : 트리 (3) - 이진 탐색 트리"
 excerpt: "이진 탐색 트리 소개 및 구현"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

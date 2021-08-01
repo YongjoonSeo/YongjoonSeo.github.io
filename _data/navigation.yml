@@ -11,9 +11,13 @@ main:
 sidebar:
   - title: "알고리즘"
     children:
-      - title: "알고리즘 개념"
-        url: /categories/algorithm-concepts/
-        category: "Algorithm Concepts"
+      - title: "컴퓨터 사이언스"
+        url: /categories/computer-science/
+        category: "Computer Science"
+        grandchildren:
+          - title: "- Algorithm & Data Structure"
+            url: /categories/computer-science/algorithm-concepts/
+            category: "Algorithm Concepts"
       - title: "알고리즘 문제풀이"
         url: /categories/problem-solving/
         category: "Problem Solving"

@@ -3,6 +3,7 @@ layout: single
 title: "19 : 분할 정복"
 excerpt: "분할 정복 소개 및 활용 예시"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

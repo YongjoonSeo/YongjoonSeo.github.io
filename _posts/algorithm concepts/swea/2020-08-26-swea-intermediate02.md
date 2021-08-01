@@ -3,6 +3,7 @@ layout: single
 title: "2-1 : 정렬 (1)"
 excerpt: "대표적인 정렬 방식 소개 - 버블 정렬, 카운팅 정렬"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

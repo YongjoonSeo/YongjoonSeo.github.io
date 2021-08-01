@@ -3,6 +3,7 @@ layout: single
 title: "14-1 : 연결 리스트 (1)"
 excerpt: "연결 리스트 소개 및 구현"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

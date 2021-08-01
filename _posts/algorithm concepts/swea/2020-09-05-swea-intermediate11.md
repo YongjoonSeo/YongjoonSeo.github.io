@@ -3,6 +3,7 @@ layout: single
 title: "7-1 : 스택 (1)"
 excerpt: "스택에 대한 소개"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

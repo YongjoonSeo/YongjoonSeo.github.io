@@ -3,6 +3,7 @@ layout: single
 title: "9 : DFS (깊이 우선 탐색, Depth-First Search)"
 excerpt: "깊이 우선 탐색 (DFS) 소개 및 구현"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

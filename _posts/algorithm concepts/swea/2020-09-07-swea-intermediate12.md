@@ -3,6 +3,7 @@ layout: single
 title: "7-2 : 스택 (2) - 괄호 검사"
 excerpt: "스택을 이용한 괄호 검사"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

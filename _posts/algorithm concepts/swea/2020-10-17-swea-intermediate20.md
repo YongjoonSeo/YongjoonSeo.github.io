@@ -3,6 +3,7 @@ layout: single
 title: "12-2 : 큐 (2) - 큐의 종류"
 excerpt: "선형 큐, 원형 큐, 연결 큐"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

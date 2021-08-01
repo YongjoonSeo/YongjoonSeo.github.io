@@ -3,6 +3,7 @@ layout: single
 title: "14-2 : 연결 리스트 (2) - 정렬"
 excerpt: "연결 리스트를 이용한 정렬 - 삽입 정렬, 병합 정렬"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

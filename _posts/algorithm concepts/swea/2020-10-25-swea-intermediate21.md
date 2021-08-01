@@ -3,6 +3,7 @@ layout: single
 title: "12-3 : 큐 (3) - deque (덱)"
 excerpt: "덱(deque) 소개"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

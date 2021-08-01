@@ -3,6 +3,7 @@ layout: single
 title: "8 : DP(동적 계획법, Dynamic Programming)"
 excerpt: "동적 계획법 소개"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

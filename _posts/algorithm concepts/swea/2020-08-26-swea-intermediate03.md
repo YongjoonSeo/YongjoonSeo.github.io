@@ -3,6 +3,7 @@ layout: single
 title: "2-2 : 정렬 (2)"
 excerpt: "대표적인 정렬 방식 소개 - 선택 정렬"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

@@ -3,6 +3,7 @@ layout: single
 title: "17 : 완전 검색 - 조합적 문제"
 excerpt: "순열과 조합을 이용한 완전 탐색"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

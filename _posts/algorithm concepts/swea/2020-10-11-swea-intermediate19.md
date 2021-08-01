@@ -3,6 +3,7 @@ layout: single
 title: "12-1 : 큐 (1)"
 excerpt: "큐의 구조 및 종류"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

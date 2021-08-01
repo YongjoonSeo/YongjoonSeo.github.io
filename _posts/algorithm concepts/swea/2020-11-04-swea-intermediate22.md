@@ -3,6 +3,7 @@ layout: single
 title: "12-4 : 큐 (4) - 우선순위 큐 개요"
 excerpt: "우선순위 큐 소개 및 구현"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

@@ -3,6 +3,7 @@ layout: single
 title: "6-2 : 문자열 패턴매칭 (2) - KMP"
 excerpt: "KMP 알고리즘을 이용한 문자열 검색"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

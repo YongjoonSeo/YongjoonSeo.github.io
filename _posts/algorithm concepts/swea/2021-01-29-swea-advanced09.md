@@ -3,6 +3,7 @@ layout: single
 title: "23-2 : 그래프의 최소 비용 문제 (2) - 최단 경로"
 excerpt: "최단 경로 문제 알고리즘 소개"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

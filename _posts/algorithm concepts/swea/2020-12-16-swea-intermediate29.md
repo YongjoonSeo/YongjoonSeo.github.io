@@ -3,6 +3,7 @@ layout: single
 title: "15-4 : 트리 (4) - Heap (힙)"
 excerpt: "힙 소개 및 힙을 이용한 우선순위 큐 구현"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

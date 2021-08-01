@@ -3,6 +3,7 @@ layout: single
 title: "7-4 : 스택 (4) - 계산기"
 excerpt: "중위표기식을 후위표기식으로 바꾸기"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

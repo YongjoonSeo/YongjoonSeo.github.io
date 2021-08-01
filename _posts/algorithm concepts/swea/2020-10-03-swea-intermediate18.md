@@ -3,6 +3,7 @@ layout: single
 title: "11 : 분할 정복 (Divide and Conquer)"
 excerpt: "분할 정복 소개 및 응용"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

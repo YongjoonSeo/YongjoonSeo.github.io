@@ -3,6 +3,7 @@ layout: single
 title: "5 : 검색"
 excerpt: "순차 검색, 이진 검색"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

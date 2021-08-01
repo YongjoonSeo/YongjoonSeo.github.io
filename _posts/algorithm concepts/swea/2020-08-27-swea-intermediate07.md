@@ -3,6 +3,7 @@ layout: single
 title: "4 : 부분집합"
 excerpt: "부분 집합의 수를 구하거나 원하는 부분 집합을 구하는 방법"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

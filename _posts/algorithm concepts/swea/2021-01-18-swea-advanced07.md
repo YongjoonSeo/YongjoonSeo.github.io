@@ -3,6 +3,7 @@ layout: single
 title: "22 : 상호배타 집합들"
 excerpt: "상호배타 집합과 Union-Find 자료구조 설명"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

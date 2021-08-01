@@ -3,6 +3,7 @@ layout: single
 title: "18 : 탐욕 알고리즘 (그리디 알고리즘)"
 excerpt: "탐욕 알고리즘 소개 및 활용 예시"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

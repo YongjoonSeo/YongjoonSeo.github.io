@@ -3,6 +3,7 @@ layout: single
 title: "20 : 백트래킹"
 excerpt: "백트래킹 소개 및 활용 예시"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

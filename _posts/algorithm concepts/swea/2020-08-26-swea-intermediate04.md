@@ -3,6 +3,7 @@ layout: single
 title: "2-3 : 정렬 (3)"
 excerpt: "대표적인 정렬 방식 소개 - 퀵 정렬, 삽입 정렬, 병합 정렬"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

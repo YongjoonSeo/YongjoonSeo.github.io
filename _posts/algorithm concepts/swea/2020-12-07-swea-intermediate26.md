@@ -3,6 +3,7 @@ layout: single
 title: "15-1 : 트리 (1)"
 excerpt: "트리 소개 및 용어 정리"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

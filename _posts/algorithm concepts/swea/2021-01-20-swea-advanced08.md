@@ -3,6 +3,7 @@ layout: single
 title: "23-1 : 그래프의 최소 비용 문제 (1) - 최소 신장 트리"
 excerpt: "최소 신장 트리 설명 및 관련 알고리즘"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

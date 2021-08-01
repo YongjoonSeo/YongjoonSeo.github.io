@@ -3,6 +3,7 @@ layout: single
 title: "21 : 그래프의 기본과 탐색"
 excerpt: "그래프를 설명하는 용어 및 그래프 표현 방법"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

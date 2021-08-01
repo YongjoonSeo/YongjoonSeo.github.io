@@ -3,6 +3,7 @@ layout: single
 title: "15-2 : 트리 (2) - 이진 트리"
 excerpt: "이진 트리의 종류 및 구현"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

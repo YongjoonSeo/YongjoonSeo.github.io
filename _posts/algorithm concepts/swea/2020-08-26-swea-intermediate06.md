@@ -3,6 +3,7 @@ layout: single
 title: "3-2 : 2차원 List (2)"
 excerpt: "2차원 배열 - 전치행렬"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

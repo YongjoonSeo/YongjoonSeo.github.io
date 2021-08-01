@@ -3,6 +3,7 @@ layout: single
 title: "3-1 : 2차원 List (1)"
 excerpt: "2차원 배열 탐색 방법 소개 - 행 우선 탐색, 열 우선 탐색, 지그재그 탐색, 델타를 이용한 탐색"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA

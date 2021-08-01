@@ -3,6 +3,7 @@ layout: single
 title: "16 : 비트 연산자"
 excerpt: "비트마스크(bitmask) 소개 및 활용"
 categories: 
+- Computer Science
 - Algorithm Concepts
 tags:
 - SWEA
