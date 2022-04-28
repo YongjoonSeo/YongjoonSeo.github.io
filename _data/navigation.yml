@@ -25,6 +25,15 @@ sidebar:
           - title: "- Python"
             url: /categories/problem-solving/python/
             category: "Python"
+  - title: "개발후기"
+    children:
+      - title: "우당탕탕 개발기록"
+        url: /categories/projects/
+        category: "Projects"
+        grandchildren:
+          - title: "- Social Media"
+            url: /categories/projects/social-media/
+            category: "Social Media"
   - title: "기타"
     children:
       - title: "잡다한 생각"
@@ -35,4 +44,4 @@ sidebar:
             url: /categories/thoughts/retrospection/
             category: "Retrospection"
 
-# 기본지식 / 개발공부 / 기타
+# 기본지식 / 개발공부 / 개발후기 / 기타
